@@ -1,0 +1,125 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "OMSDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models1",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "YPP.OMS.DataAccessLayer",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[ApiMethod]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Country]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryVariant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Feedback]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MarketPlace]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MarketPlaceOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Payment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductChannel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductImage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductVariant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductWarehouse]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provider]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReturnInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Store]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TaskInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Variant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Voucher]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Warehouse]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-kd8vul0\\sqlexpress.OMSDb1.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
